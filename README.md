@@ -1,1 +1,3 @@
-# starter
+```
+  yarn && yarn start
+```
