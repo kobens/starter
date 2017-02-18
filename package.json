@@ -4,7 +4,8 @@
   "private": true,
   "main": "index.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "node start.js",
+    "link": "npm link browser-sync chalk ngrok clipboardy"
   },
   "author": "",
   "devDependencies": {

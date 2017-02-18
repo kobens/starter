@@ -1,3 +1,3 @@
 ```
-  yarn && yarn start
+  npm run link && npm run start
 ```
